@@ -4,12 +4,12 @@ const path = require("path");
 
 // get request for notes HTML page
 page.get("/notes", (req,res) => {
-    res.sendFile(path.join(__dirname, "../public/notes.html"));
+    res.sendFile(path.join(__dirname, "../Public/notes.html"));
 });
 
 // get request for main html page
 page.get("*", (req, res) => {
-    res.sendFile(path.join(__dirname, "../public/index.html"));
+    res.sendFile(path.join(__dirname, "../Public/index.html"));
 });
 
 // exporting file

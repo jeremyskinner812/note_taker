@@ -16,11 +16,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-No installation is required. Access application at the URL with any web browser. 
+No installation is required. Access application at the URL https://arcane-lowlands-71606.herokuapp.com/ with any web browser. 
 
 ## Usage
 
-To use application go to the URL with any web browser and click the get started button to go to the notes page.
+To use application go to the URL https://arcane-lowlands-71606.herokuapp.com/ with any web browser and click the get started button to go to the notes page.
 ![alt text](./Public/Assets/screenshots/home.png)
 
 On the notes page you can see any existing notes on the left and a field for title and your note's text on the right. Type in a title for your note and then fill out the text field below. Click the save icon above to save the note. You can click on the past notes titles on the left and see your older notes. If you want to delete a note click on the delete button on the saved note.
